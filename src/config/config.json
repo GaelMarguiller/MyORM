@@ -1,0 +1,6 @@
+{
+  "dbhost": "localhost",
+  "dbname": "Film",
+  "dbuser": "root",
+  "dbpassword": ""
+}
